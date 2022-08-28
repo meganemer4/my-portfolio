@@ -9,6 +9,8 @@ https://templatemo.com/tm-520-highway
 body {
   font-family: 'Kanit', sans-serif;
 	background-color: black;
+    
+   
 	
 }
 
@@ -37,6 +39,7 @@ body, html {
   background-position: center center;
   width: 100%;
   text-align: center;
+    
 }
 
 .page-heading .heading-content h1 {
@@ -49,6 +52,7 @@ body, html {
   margin-bottom: 0;
   margin-top: 220px;
   padding: 20px 60px;
+   
 }
 
 .page-heading .heading-content em {
@@ -295,14 +299,14 @@ nav {
 
 #video-container .video-content .inner em {
   font-style: normal;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 
 #video-container .video-content .inner p {
   color: #fff;
   font-size: 22px;
-  font-weight: 200;
+  font-weight: 300;
   letter-spacing: 1.5px;
   text-align: center;
   padding: 0px 30px;
@@ -359,6 +363,7 @@ nav {
   transform: translateY(25px);
   transition: .5s ease-in-out;
   letter-spacing: 0.5px;
+    
  }
 
  .full-screen-portfolio .portfolio-item em {
@@ -372,7 +377,7 @@ nav {
 
 .full-screen-portfolio .portfolio-item p {
   padding-left: 20px;
-  font-weight: 300!important;
+  font-weight: 400!important;
   letter-spacing: 0.5px;
   font-size: 14px;
   color: #fff;
@@ -1384,14 +1389,14 @@ footer a:hover {
 #PortfolioPosts {
 	color: white;
 	font-size: 14pt;
-	font-weight: 200;
+	font-weight: 300;
 	margin-bottom: 40px;
 	text-align: center;
 }
 .PortfolioPosts {
 	color: white;
 	font-size: 14pt;
-	font-weight: 200;
+	font-weight: 300;
 	margin-bottom: 40px;
 	text-align: center;
 	
@@ -1419,7 +1424,7 @@ footer a:hover {
 	margin-bottom: 20px;
 	color: #60c6c5;
 	font-size: 36pt;
-	font-weight: 200;
+	font-weight: 300;
 	
 }
 form{
