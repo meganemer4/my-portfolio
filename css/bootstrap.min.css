@@ -7839,3 +7839,17 @@ button.close {
         display: none !important
     }
 }
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+.photo {
+    
+    max-width: 25%;
+    max-height: 30%;
+    border: 2px solid #FFFFFF;
+}
